@@ -1,9 +1,9 @@
 Webpack + TypeScript starter
 ---
 
-![example](drawing.jpg)
+![example](https://juristr.com/blog/assets/imgs/meetup-intro-angular2/transpiling.png)
 
-Это далеко не сложный и не полный starter kit. Цель этого репозитория состоит в том, чтобы получить простейшую возможную настройку, для работы с Webpack и TypeScript. Развернув себе этот репозиторий вы сможете дополнитель его своими необходимыми инструментами, которые вам нужны, например, SASS-компиляция, Gzip, Brotli-компрессия. Дополнить тестами свое окружение.
+Это достаточно простой starter kit. Цель этого репозитория состоит в том, чтобы получить простейшую возможную настройку для работы с Webpack и TypeScript. Развернув себе этот репозиторий, вы сможете дополнитель теми инструментами, которые вам нужны, например, SASS-компиляция, Gzip, Brotli-компрессия. Дополнить тестами свое окружение.
 
 ## Features
 
@@ -18,20 +18,20 @@ Webpack + TypeScript starter
 Просто склонируйте репозиторий, а дальше:
 
 ```
-# change directory to your project
+# Переходим в директорию с проектом
 cd  <your-project-name>
 
-# Maybe remove the `.git` directory and start with a fresh one.
+# Удаляем `.git` директорию
 
-# install all dependencies.
-$ npm i
+# установка зависимостей
+npm i
 
-# Start developing and serve your app:
+# Запуск сборки приложения и веб-сервера:
 npm serve
 
-# Build your app without minification: 
+# Сборка приложения без минификации: 
 npm run build
 
-# Build your app with minification: 
+# Сборка приложения с минификацией: 
 npm run build:prod
 ```
