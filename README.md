@@ -1,6 +1,8 @@
 Webpack + TypeScript starter
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/splincode/webpack-typescript-starter.svg)](https://greenkeeper.io/)
+
 ![example](https://juristr.com/blog/assets/imgs/meetup-intro-angular2/transpiling.png)
 
 Это далеко не самый сложный starter kit. Цель его состоит в том, чтобы получить простейшую возможную настройку для работы с Webpack и TypeScript. Развернув себе этот репозиторий, вы сможете дополнить теми инструментами, которые вам нужны, например, SASS-компиляцию, Gzip, Brotli-компрессию, дополнить тестами свое окружение.
